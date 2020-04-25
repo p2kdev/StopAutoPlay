@@ -1,0 +1,9 @@
+Package: com.imkpatil.stopautoplay
+Name: StopAutoPlay
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Stop that annoying Autoplay!
+Maintainer: Kiran Patil
+Author: Kiran Patil
+Section: Tweaks
